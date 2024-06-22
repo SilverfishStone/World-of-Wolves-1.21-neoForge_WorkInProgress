@@ -1,0 +1,13 @@
+{
+  "item.wolfworld.wolf_brush_empty.brush" : "Empty Brush",
+  "item.wolfworld.wolf_brush" : "Wolf Brush",
+  "minecraft:snowy.brush": "Snowy Wolf",
+  "minecraft:spotted.brush": "Spotted Wolf",
+  "minecraft:striped.brush": "Striped Wolf",
+  "minecraft:woods.brush": "Woods Wolf",
+  "minecraft:pale.brush": "Pale Wolf",
+  "minecraft:chestnut.brush": "Chestnut Wolf",
+  "minecraft:black.brush": "Black Wolf",
+  "minecraft:rusty.brush": "Rusty Wolf",
+  "minecraft:ashen.brush": "Ashen Wolf"
+}

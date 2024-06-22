@@ -1,0 +1,68 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/brush"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "wolf_brush_type": 0.1
+      },
+      "model": "wolfworld:item/snowy_brush"
+    },
+    {
+      "predicate": {
+        "wolf_brush_type": 0.2
+      },
+      "model": "wolfworld:item/woods_brush"
+    },
+    {
+      "predicate": {
+        "wolf_brush_type": 0.3
+      },
+      "model": "wolfworld:item/striped_brush"
+    },
+    {
+      "predicate": {
+        "wolf_brush_type": 0.4
+      },
+      "model": "wolfworld:item/spotted_brush"
+    },
+    {
+      "predicate": {
+        "wolf_brush_type": 0.5
+      },
+      "model": "wolfworld:item/chestnut_brush"
+    },
+    {
+      "predicate": {
+        "wolf_brush_type": 0.6
+      },
+      "model": "wolfworld:item/black_brush"
+    },
+    {
+      "predicate": {
+        "wolf_brush_type": 0.7
+      },
+      "model": "wolfworld:item/rusty_brush"
+    },
+    {
+      "predicate": {
+        "wolf_brush_type": 0.8
+      },
+      "model": "wolfworld:item/pale_brush"
+    },
+    {
+      "predicate": {
+        "wolf_brush_type": 0.9
+      },
+      "model": "wolfworld:item/ashen_brush"
+    },
+    {
+      "predicate": {
+        "wolf_brush_type": 1
+      },
+      "model": "wolfworld:item/ashen_brush"
+    }
+  ]
+}
